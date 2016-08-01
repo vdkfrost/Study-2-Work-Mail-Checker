@@ -1,0 +1,9 @@
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\S2W Mail Checker.exe.config
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\S2W Mail Checker.exe
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\S2W Mail Checker.pdb
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\ImapX.dll
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\ImapX.pdb
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\bin\Debug\ImapX.xml
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\obj\Debug\S2W Mail Checker.exe
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\obj\Debug\S2W Mail Checker.pdb
+G:\my C# programms\S2W Mail Checker\S2W Mail Checker\obj\Debug\S2W Mail Checker.csprojResolveAssemblyReference.cache
